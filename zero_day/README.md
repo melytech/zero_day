@@ -1,1 +1,1 @@
-my first vagrant task
+my vagrant task
